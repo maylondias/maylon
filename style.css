@@ -1,0 +1,12 @@
+:root{   seletor(pseudo-classe raiz)
+ --cor-de-fundo: #EBECEE;
+}
+ body{seletor
+background-color:var;color: var(--cor-de-fundo);
+}
+
+h1{
+    background-color:white(192, 191, 190);
+
+
+}
